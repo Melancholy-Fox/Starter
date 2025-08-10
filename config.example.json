@@ -5,7 +5,6 @@
     "subTitle": "--hitokoto--",
     "subTitleColor": "#e2e8f0",
     "defaultSearchEngine": "bing",
-    "footerText": "© 2023 快速搜索起始页 | <a href='#'>关于</a>",
     "footerColor": "#e2e8f0",
     "footerLinkColor": "#3B82F6",
     "searchEngines": [
@@ -58,4 +57,5 @@
             "icon": "/assets/img/youtube.svg"
         }
     ]
+
 }
