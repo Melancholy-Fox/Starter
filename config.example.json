@@ -1,0 +1,61 @@
+{
+    "backgroundImage": "https://apiserver.alcex.cn/bing",
+    "mainTitle": "--time--",
+    "mainTitleColor": "#ffffff",
+    "subTitle": "--hitokoto--",
+    "subTitleColor": "#e2e8f0",
+    "defaultSearchEngine": "bing",
+    "footerText": "© 2023 快速搜索起始页 | <a href='#'>关于</a>",
+    "footerColor": "#e2e8f0",
+    "footerLinkColor": "#3B82F6",
+    "searchEngines": [
+        {
+            "id": "360so",
+            "name": "360",
+            "url": "https://www.so.com/s?q=%search",
+            "icon": "https://www.so.com/favicon.ico"
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "url": "https://www.baidu.com/s?wd=%search",
+            "icon": "/assets/img/baidu.svg"
+        },
+        {
+            "id": "bilibili",
+            "name": "Bilibili",
+            "url": "https://search.bilibili.com/all?keyword=%search",
+            "icon": "https://www.bilibili.com/favicon.ico"
+        },
+        {
+            "id": "bing",
+            "name": "Bing",
+            "url": "https://www.bing.com/search?q=%search",
+            "icon": "/assets/img/bing.svg"
+        },
+        {
+            "id": "github",
+            "name": "GitHub",
+            "url": "https://github.com/search?q=%search",
+            "icon": "/assets/img/github.svg"
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "url": "https://www.google.com/search?q=%search",
+            "icon": "/assets/img/google.svg"
+        },
+        {
+            "id": "taobao",
+            "name": "Taobao",
+            "url": "https://s.taobao.com/search?q=%search",
+            "icon": "https://www.taobao.com/favicon.ico"
+        },
+        {
+            "id": "youtube",
+            "name": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=%search",
+            "icon": "/assets/img/youtube.svg"
+        }
+    ]
+}
